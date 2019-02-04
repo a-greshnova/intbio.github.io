@@ -41,7 +41,7 @@ permalink: /agreshnova
 								
 							</tr>
 							<tr>
-								[Curriculum Vitae]({{ "/cv/Greshnova_CV.pdf" | relative_url }})
+								[Curriculum Vitae]({{ "intbio.github.io/cv/Greshnova_CV.pdf" | relative_url }})
 							</tr>
 							
 							
